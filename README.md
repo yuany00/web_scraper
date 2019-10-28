@@ -13,6 +13,6 @@ Run this module
 
 Input your url
 
-Default depth is 3, you can change it depending on your needs
+Default depth is 3, you can change it according to your need
 
 The texts will be saved in json format in this web_craper folder
