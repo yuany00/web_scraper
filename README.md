@@ -7,11 +7,11 @@ Beautiful Soup
 
 Requests
 
-Instruction:
+# Instruction:
 
-Run this module
+1. Run this module
 
-Input your url
+2. Input your url
 
 Default depth is 3, you can change it according to your need
 
